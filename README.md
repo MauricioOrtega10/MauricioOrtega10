@@ -1,9 +1,9 @@
 <div align="center">
   
-# ¡Hola! Pásale, Bienvenido
+# ¡Hola! Pásale, Bienvenido.
 
   
-## I'm Mauricio Ortega
+## I'm Mauricio Ortega.
 
 ### Mechatronics Engineer, currently Embedded Systems Lead.
 
