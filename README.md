@@ -35,16 +35,16 @@
 ---
 
 
-### ⚡ Stats ⚡
+### Stats
 
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img width="390" src="https://streak-stats.demolab.com/?user=MauricioOrtega10&theme=dark&border=00ff00&hide_border=true" alt="MauricioOrtega10" />
+  <img width="390" src="https://streak-stats.demolab.com/?user=MauricioOrtega10&theme=react&border=00ff00&hide_border=true" alt="MauricioOrtega10" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=MauricioOrtega10&show_icons=true&theme=react&border_color=00ff00&hide_border=true" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioOrtega10&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=0a0a0a&langs_count=8&layout=compact&border_color=00ff00&hide_border=true&size_weight=0.5&count_weight=0.5" />
