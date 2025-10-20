@@ -47,7 +47,7 @@
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioOrtega10&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=0a0a0a&langs_count=8&layout=compact&border_color=00ff00&hide_border=true&size_weight=0.5&count_weight=0.5" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioOrtega10&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&theme=react&hide_border=true" />
 </a>
 
 <br>
