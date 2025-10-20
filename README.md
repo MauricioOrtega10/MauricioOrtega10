@@ -41,7 +41,7 @@
   <img width="390" src="https://streak-stats.demolab.com/?user=MauricioOrtega10&theme=dark&border=00ff00&hide_border=true" alt="MauricioOrtega10" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=MauricioOrtega10&show_icons=true&theme=dark&border_color=00ff00&hide_border=true" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=MauricioOrtega10&show_icons=true&theme=react&border_color=00ff00&hide_border=true" />
 </a>
 
 <br><br>
